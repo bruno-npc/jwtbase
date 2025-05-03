@@ -18,8 +18,7 @@ Este projeto demonstra como implementar autenticação JWT em uma aplicação Sp
 ## Começando
 1. Clone o repositório:
 ```
-git clone https://github.com/seuusuario/spring-boot-jwt-auth.git
-cd spring-boot-jwt-auth
+git clone https://github.com/seuusuario/spring-boot-jwt-auth.git](https://github.com/bruno-npc/jwtbase
 ```
 
 2. Inicie o banco de dados PostgreSQL com Docker Compose:
